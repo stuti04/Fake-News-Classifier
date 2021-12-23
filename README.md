@@ -9,11 +9,9 @@ NOTE: Due to some issues with my laptop, I lost files of my main app so in this 
 * Fake News Classifier
     * Python
     * Google Colaboratory 
-    * Flask (for hosting on the server)
-       
+    * Flask (for hosting on the server)  
 * Chatbot
     * Dialogflow 
-     
 * App
     * Java 
     * Android Studio 
