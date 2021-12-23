@@ -4,6 +4,6 @@ Factify is a fake news classifier app that I worked on along with my team for my
 
 NOTE: Due to some issues with my laptop, I lost files of my main app so in this repository I have uploaded only the classifier code.
 
-# BUILT USING: 
+### BUILT USING: 
 
 
