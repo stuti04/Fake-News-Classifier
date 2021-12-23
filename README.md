@@ -23,9 +23,9 @@ NOTE: Due to some issues with my laptop, I lost files of my main app so in this 
 
 Prerequisites for running the CNN algorithm
 
-1) Get the latest release of Python from https://www.python.org/downloads/
-2) Download the editor of your choice. Some of the editors you can use are PyCharm, Jupyter Notebook, and Google Colab. 
-3) Install all the required libraries before running the code. 
+* Get the latest release of Python from https://www.python.org/downloads/
+* Download the editor of your choice. Some of the editors you can use are PyCharm, Jupyter Notebook, and Google Colab. 
+* Install all the required libraries before running the code. 
 
 NOTE: If you are using Google Colab, you will not need to install libraries separately. 
 
