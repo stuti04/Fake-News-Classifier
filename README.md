@@ -22,8 +22,6 @@ Prerequisites for running the CNN algorithm
 * Download the editor of your choice. Some of the editors you can use are PyCharm, Jupyter Notebook, and Google Colab. 
 * Install all the required libraries before running the code. 
 
-NOTE: If you are using Google Colab, you will not need to install libraries separately. 
-
 ### Contributing
 
 This project is complete and therefore, not open for contribution to the code. But any suggestions regarding the implementation are **highly appreciated**. 
