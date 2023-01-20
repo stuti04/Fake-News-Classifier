@@ -1,4 +1,6 @@
-## Project Description
+# Fake News Classifier (Part of my final year project)
+
+### Project Description
 
 The fake news classifier was built using the CNN algorithm. It was integrated in an app called 'Factify' that I had developed along with my team for my final year project. This app detected fake news using the classifier from the dataset, segregated it from the real news, and finally, displayed the real news on the home page of the app. It also consisted of a chatbot which was built for user interaction purposes. 
 
